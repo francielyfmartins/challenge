@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/01ba0963-52ee-486f-81d9-caa9d7923cc5)<h1>Desafio - Sorteio do Amigo Secreto Alura</h1>
+<h1>Desafio - Sorteio do Amigo Secreto Alura</h1>
+![2025-03-17 21_11_07-Window](https://github.com/user-attachments/assets/d8e0892d-0132-458b-a242-181d3fbeb628)
 <p>Challenge para o curso de "Praticando Logica de programação". </p>
 <h2>Tecnologias utilizadas:</h2>
 <ul>
