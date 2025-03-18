@@ -6,4 +6,4 @@
 <li>HTML</li>
 <li>CSS</li>
 </ul>
-![2025-03-17 21_13_09-Window](https://github.com/user-attachments/assets/5c39ca9d-13f7-4d6f-a6ac-14d562c433f2)
+![2025-03-17 21_04_16-Window](https://github.com/user-attachments/assets/4f23a57c-68cd-42bb-a902-bf6a386ce61e)
